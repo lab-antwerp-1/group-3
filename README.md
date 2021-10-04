@@ -1,4 +1,4 @@
-# (project name)
+# Group 3
 
 <!-- describe your project -->
 
@@ -44,3 +44,5 @@ that your code will pass before pushing by running `npm run lint:md` locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+    
+    [Daniel](https://github.com/lab-antwerp-1/group-3/pull/2/files?short_path=0c6cf76#diff-0c6cf765ecd1239fa63c71c0d35f8b4b29aa873d4f5554234609b12ef26e34f0)

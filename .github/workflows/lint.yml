@@ -8,5 +8,8 @@ jobs:
   lint-md:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - run: npm install
       - run: npm run lint:md

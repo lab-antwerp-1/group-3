@@ -52,3 +52,5 @@ that your code will pass before pushing by running `npm run lint:md` locally.
 [Maurice](https://github.com/lab-antwerp-1/group-3/blob/0f1e6c2b6101a17a23d53d4b1428d096e3a2b783/people/mauricemat.md)
 
 [Ashenafi](https://github.com/lab-antwerp-1/group-3/blob/master/people/ashenafi.md)
+
+[Khaled](https://github.com/lab-antwerp-1/group-3/blob/master/people/Khaled.md)
